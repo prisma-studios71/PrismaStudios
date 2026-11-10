@@ -20,7 +20,7 @@
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/h-stack-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/h-stack-light.png"><img src="./assets/h-stack-dark.png" alt="Stack" width="100%"></picture></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,html,css,js,ts,react,tailwind,kotlin,androidstudio,python,vercel,git,github,vscode&theme=dark&perline=8" alt="Figma, Photoshop, Illustrator, HTML, CSS, JavaScript, TypeScript, React, Tailwind, Kotlin, Android Studio, Python, Vercel, Git, GitHub, VS Code" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.png"><img src="./assets/stack-dark.png" alt="Design: Figma, Photoshop, Illustrator. Frontend: HTML, CSS, JavaScript, TypeScript, React, Tailwind. Mobile and scripting: Kotlin, Android Studio, Python. Ship and tooling: Vercel, Git, GitHub, VS Code." width="100%"></picture>
 </p>
 
 <br/>
