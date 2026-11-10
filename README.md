@@ -1,47 +1,94 @@
+<!-- ============ BANNER ============ -->
 <p align="center">
-  <a href="https://prisma-studios.pw"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png"><img src="./assets/banner-dark.png" alt="Prisma Studios — Two halves. One studio. Design × development, Poland" width="100%"></picture></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F5AF0,50:2CB1BC,100:FF6AD5&text=Prisma%20Studios&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Design%20%C3%97%20Code%20%C2%B7%20Warsaw&descAlignY=58&descSize=18&animation=fadeIn" alt="Prisma Studios banner" />
+</p>
+<p align="center">
+  <a href="https://prisma-studios.pw">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&width=600&lines=Designer+%C3%97+Developer;Websites+that+actually+look+good;Banners%2C+packaging%2C+brand+visuals;Web+apps+shipped+on+Vercel;Android+stuff+in+Kotlin" alt="Typing intro" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://prisma-studios.pw"><img src="https://img.shields.io/badge/Website-prisma--studios.pw-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.behance.net/"><img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Open%20for-Freelance-2CB1BC?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=prisma-studios71&style=for-the-badge&color=FF6AD5&label=PROFILE+VIEWS" />
 </p>
 
+👋 Hey, this is Prisma Studios
+
+A one-person creative studio from Warsaw that lives right where design meets code.
+
+	•	🎨 Design — ad banners, site banners, packaging, brand visuals
+	•	💻 Development — websites and web apps, from first mockup to deploy
+	•	🛠️ Support — revisions and maintenance after launch, not ghosting after the invoice
+	•	⚡ Vibe — animation-heavy, polished, fast. If it doesn't look good, it's not done.
+
+🧰 Stack
+
 <p align="center">
-  I design and build things for the web — brand visuals, banners and packaging on one side,<br/>
-  websites and web apps on the other. One person, both halves of the job.
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,kotlin,androidstudio,python&perline=9" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,vercel,git,github,vscode,linux&perline=8" />
 </p>
 
+🚀 Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🃏 <a href="https://github.com/prisma-studios71/Webjack">Webjack</a></h4>
+      <p>Blackjack in the browser — clean UI, smooth game flow, zero install.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <a href="https://blackjack-amber.vercel.app"><b>▶ Play live</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 <a href="https://github.com/prisma-studios71/Opentaiment">Opentaiment</a></h4>
+      <p>Android app built in Kotlin. <!-- TODO: one sentence about what it does --></p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+      </p>
+      <a href="https://github.com/prisma-studios71/Opentaiment"><b>→ View repo</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📊 Vantage</h4>
+      <p>Web app deployed on Vercel. <!-- TODO: one sentence + live link --></p>
+      <p>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <a href="#"><b>▶ Live demo</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💸 SellTrack</h4>
+      <p>Resale sales tracker — item management and automatic profit calculation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      </p>
+      <a href="#"><b>→ Coming soon</b></a>
+    </td>
+  </tr>
+</table>
+
+📈 Stats
+
 <p align="center">
-  <a href="https://prisma-studios.pw"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-website-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/btn-website-light.png"><img src="./assets/btn-website-dark.png" alt="prisma-studios.pw" width="200"></picture></a>
-  &nbsp;
-  <a href="https://www.behance.net/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-behance-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/btn-behance-light.png"><img src="./assets/btn-behance-dark.png" alt="Behance portfolio" width="200"></picture></a>
-  &nbsp;
-  <a href="https://prisma-studios.pw"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-freelance-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/btn-freelance-light.png"><img src="./assets/btn-freelance-dark.png" alt="Open for freelance" width="200"></picture></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prisma-studios71&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=2CB1BC&text_color=C9D1D9&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prisma-studios71&layout=compact&hide_border=true&bg_color=0D1117&title_color=7F5AF0&text_color=C9D1D9" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prisma-studios71&hide_border=true&background=0D1117&ring=7F5AF0&fire=FF6AD5&currStreakLabel=2CB1BC&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </p>
 
-<br/>
+📬 Let's build something
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/h-stack-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/h-stack-light.png"><img src="./assets/h-stack-dark.png" alt="Stack" width="100%"></picture></p>
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.png"><img src="./assets/stack-dark.png" alt="Design: Figma, Photoshop, Illustrator. Frontend: HTML, CSS, JavaScript, TypeScript, React, Tailwind. Mobile and scripting: Kotlin, Android Studio, Python. Ship and tooling: Vercel, Git, GitHub, VS Code." width="100%"></picture>
-</p>
-
-<br/>
-
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/h-work-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/h-work-light.png"><img src="./assets/h-work-dark.png" alt="Selected work" width="100%"></picture></p>
+Got a brand, a product or a half-baked idea that needs to look sharp online?
+Hit me up through prisma-studios.pw — banners, sites, apps, the whole package.
 
 <p align="center">
-  <a href="https://blackjack-amber.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-webjack-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/card-webjack-light.png"><img src="./assets/card-webjack-dark.png" alt="Webjack — browser blackjack with a clean, minimal interface" width="33.3%"></picture></a><a href="https://github.com/prisma-studios71/Opentaiment"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-opentaiment-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/card-opentaiment-light.png"><img src="./assets/card-opentaiment-dark.png" alt="Opentaiment — Android app built natively in Kotlin" width="33.3%"></picture></a><a href="https://prisma-studios.pw"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-vantage-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/card-vantage-light.png"><img src="./assets/card-vantage-dark.png" alt="Vantage — web app designed, built and shipped end to end" width="33.3%"></picture></a>
-</p>
-
-<br/>
-
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/h-services-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/h-services-light.png"><img src="./assets/h-services-dark.png" alt="What I do" width="100%"></picture></p>
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/services-dark.png"><source media="(prefers-color-scheme: light)" srcset="./assets/services-light.png"><img src="./assets/services-dark.png" alt="Design: ad and site banners, packaging, brand visuals. Development: websites and web apps, from mockup to deploy. Support: revisions and maintenance after launch." width="100%"></picture>
-</p>
-
-<br/>
-
-<p align="center">
-  Have a brand, product or idea that needs to look sharp online?<br/>
-  <a href="https://prisma-studios.pw"><b>Let's talk → prisma-studios.pw</b></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF6AD5,50:2CB1BC,100:7F5AF0" />
 </p>
